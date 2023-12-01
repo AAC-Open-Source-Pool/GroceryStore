@@ -1,5 +1,5 @@
 <h1 align = "center">
-  <img src="https://i.imgur.com/HQmG6Nz.png">
+  <img src="https://i.imgur.com/HQmG6Nz.png" style="height:200px">
 </h1>
 
 # Table of Contents
